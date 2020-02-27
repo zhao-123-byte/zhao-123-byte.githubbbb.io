@@ -1,16 +1,13 @@
-## Welcome to GitHub Pages
+## Tongxi ZHOU
+#### Tel: (+86)178-2201-4926&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Email: tongxi.zhou1999@gmail.com 
 
-You can use the [editor on GitHub](https://github.com/KetoneOlefine/tongxi.zhou.GitHub.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
+### EDUCATION
+#### School of Electrical and Information Engineering, Tianjin University&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sept. 2017 - Jun. 2021 
+#### Bachelor of Engineering, Major in Automation 
+- **GPA**: 3.91/4.0 (top 2 among 174, top 1 among female students), **4.0/4.0 for all math and CS courses** 
+- **Major Coursework**: Modern Control Theory (100/100), Introduction to Artificial Intelligence (99/100), Introduction to Robotics (98/100), C++ (96/100), SQL (97/100) 
+- **Awards**: National Scholarship (the highest honor for undergraduates in China, **top 0.2%**), Merit Student Honor (top 10%) 
+- **Programming Skills**: solid expertise in C++, Python, MATLAB, SQL, TensorFlow; experienced in Java, C, C#, assembly language, Kotlin; proficient in using AutoCAD, Altium Designer, Quartus, Multisim, Android Studio and other professional software 
 # Header 1
 ## Header 2
 ### Header 3
