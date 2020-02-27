@@ -57,5 +57,5 @@ Advisor: Liang Fu Lu, School of Mathematics, Tianjin University
 - Written the host draft independently and praised by the director of Art Department of Student Union 
 
 ### SKILLS AND INTERESTS
-- Language Skills: Chinese (native), English (the only student in our department who got the qualification for double degree in English) 
-- Hobbies: Sprinting (the first place in the 100-meter and 200-meter race), Calligraphy, Sketch 
+- **Language Skills**: Chinese (native), English (the only student in our department who got the qualification for double degree in English) 
+- **Hobbies**: Sprinting (the first place in the 100-meter and 200-meter race), Calligraphy, Sketch 
