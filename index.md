@@ -34,7 +34,7 @@ Advisor: Mei Yu, College of Intelligence and Computing, Tianjin University
 - Developed a form application for the lab manager to check the equipment of the Electrical Laboratory by C# (contributed over 1,000-line codes) 
 - Scored 97/100 in the coursework of SQL, and was the only student who developed an extra form application
 
-#### Handwritten Digit Recognition Using Machine Learning | TAFeb. 2019 - Jun. 2019 
+#### Handwritten Digit Recognition Using Machine Learning | TA&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Feb. 2019 - Jun. 2019 
 Advisor: Xi Chen, School of Electrical and Information Engineering, Tianjin University 
 - Recognized the handwritten digit based on the BP Neural Network with MATLAB 
 - Recognized the handwritten digit based on Convolutional Neural Network using Python 
