@@ -2,8 +2,8 @@
 #### Tel: (+86)178-2201-4926&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Email: tongxi.zhou1999@gmail.com 
 
 ### EDUCATION
-School of Electrical and Information Engineering, Tianjin University&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sept. 2017 - Jun. 2021 
-Bachelor of Engineering, Major in Automation 
+School of Electrical and Information Engineering, Tianjin University&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sept. 2017 - Jun. 2021<br/>
+Bachelor of Engineering, Major in Automation
 - **GPA**: 3.91/4.0 (top 2 among 174, top 1 among female students), **4.0/4.0 for all math and CS courses** 
 
 - **Major Coursework**: Modern Control Theory (100/100), Introduction to Artificial Intelligence (99/100), Introduction to Robotics (98/100), C++ (96/100), SQL (97/100) 
