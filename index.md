@@ -1,6 +1,6 @@
 ## Tongxi ZHOU
 #### Tel: (+86)178-2201-4926&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Email: tongxi.zhou1999@gmail.com
-![](photo.png)
+![](myphoto.jpg)
 
 ### EDUCATION
 **School of Electrical and Information Engineering, Tianjin University&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sept. 2017 - Jun. 2021<br/>
@@ -10,9 +10,7 @@ Bachelor of Engineering, Major in Automation**
 - **Major Coursework**: Modern Control Theory (100/100), Introduction to Artificial Intelligence (99/100), Introduction to Robotics (98/100), C++ (96/100), SQL (97/100) 
 
 - **Awards**: National Scholarship (the highest honor for undergraduates in China, **top 0.2%**), Merit Student Honor (top 10%) 
-![](honor.png)
 - **Programming Skills**: solid expertise in C++, Python, MATLAB, SQL, TensorFlow; experienced in Java, C, C#, assembly language, Kotlin; proficient in using AutoCAD, Altium Designer, Quartus, Multisim, Android Studio and other professional software 
-
 
 ### RESEARCH EXPERIENCE 
 I'm going to work as an intern in **Cyber Physical Systems Group, Ming Hsieh Department of Electrical Engineering, University of Southern California** during this summer.
