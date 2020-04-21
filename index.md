@@ -8,7 +8,7 @@ Bachelor of Engineering, Major in Automation**
 - **GPA**: 92.7/100, 3.91/4.0 (top 2 among 174, top 1 among female students), **4.0/4.0 for all math and CS courses** 
 - **Major Coursework**: Modern Control Theory (100/100), Introduction to Artificial Intelligence (99/100), Introduction to Robotics (98/100), C++ (96/100), SQL (97/100) 
 - **English**: 627 (CET4, one-pass), 557 (CET6, one-pass), 90 (TOEFL)
-- **Awards**: National Scholarship*2 (the highest honor for undergraduates in China, **top 0.2%**), Merit Student Honor*2 (top 10%)  
+- **Awards**: National Scholarship (2018 and 2019, the highest honor for undergraduates in China, **top 0.2%**), Merit Student Honor (2018 and 2019, top 10%)  
 - **Programming Skills**: solid expertise in C++, Python, MATLAB, SQL, TensorFlow; experienced in Java, C, C#, assembly language, Kotlin; proficient in using AutoCAD, Altium Designer, Quartus, Multisim, Android Studio and other professional software 
 
 ### RESEARCH EXPERIENCE 
