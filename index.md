@@ -1,6 +1,6 @@
 ## <center>Tongxi ZHOU</center>
 #### <center>Tel: (+86)178-2201-4926&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Email: tongxi.zhou1999@gmail.com</center> 
-<div align=center><src ="https://github.com/KetoneOlefine/Tongxi.Zhou.Homepage/edit/master/photo.png"/></div>
+<div align=center><src ="https://github.com/KetoneOlefine/Tongxi.Zhou.Homepage/blob/master/photo.png"/></div>
 
 ### EDUCATION
 **School of Electrical and Information Engineering, Tianjin University&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sept. 2017 - Jun. 2021<br/>
