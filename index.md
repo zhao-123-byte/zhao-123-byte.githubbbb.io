@@ -15,6 +15,7 @@ Bachelor of Engineering, Major in Automation**
 
 
 ### RESEARCH EXPERIENCE 
+I'm going to work as an intern in **Cyber Physical Systems Group, Ming Hsieh Department of Electrical Engineering, University of Southern California**, advised by Prof. **Paul Bogdan** during this summer.
 #### Research on Garbage Classification Based on Deep Learning | RA&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mar. 2019 - Mar. 2020 
 Advisor: Ming Zeng, Institute of Robotics and Automation Systems, Tianjin University 
 - Collected and filtered images to construct a public garbage dataset including 10 subclasses and a total of 10,624 images 
@@ -54,7 +55,7 @@ Advisor: Liang Fu Lu, School of Mathematics, Tianjin University
 - Chaired monthly meetings to discuss the progress of our project 
 - Prepared for the interim reply and made a report to professors and students 
 
-#### College Welcome Newcomers Party and College New Year’s Eve Party | Hostess&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sept. 2017 – Dec. 2017 
+#### College Welcome Newcomers Party and New Year’s Eve Party | Hostess&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sept. 2017 – Dec. 2017 
 - Hosted the Welcome Newcomers Party and the New Year’s Eve Party of the college 
 - Written the host draft independently and praised by the director of Art Department of Student Union 
 
