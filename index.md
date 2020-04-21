@@ -15,13 +15,13 @@ Bachelor of Engineering, Major in Automation**
 
 
 ### RESEARCH EXPERIENCE 
-I'm going to work as an intern in **Cyber Physical Systems Group, Ming Hsieh Department of Electrical Engineering, University of Southern California**, advised by Prof. **Paul Bogdan** during this summer.
+I'm going to work as an intern in **Cyber Physical Systems Group, Ming Hsieh Department of Electrical Engineering, University of Southern California** during this summer.
 #### Research on Garbage Classification Based on Deep Learning | RA&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mar. 2019 - Mar. 2020 
 Advisor: Ming Zeng, Institute of Robotics and Automation Systems, Tianjin University 
 - Collected and filtered images to construct a public garbage dataset including 10 subclasses and a total of 10,624 images 
 - Applied and compared different techniques of data augmentation, such as flipping, to expand the dataset 
 - Contributed to developing a public garbage classification algorithm based on a customized CNN architecture, conducting the numerical tests, and demonstrating a high accuracy of 96.35% 
-- Contributed to a fourth-author paper at 39th Chinese Control Conference, which is accepted
+- Contributed to a fourth-author paper at 39th Chinese Control Conference, which has been accepted
 #### Portable Gesture Control System Based on Kinect | RA&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;May. 2018 - May. 2019 
 Advisor: Xi Chen, School of Electrical and Information Engineering, Tianjin University 
 - Designed an Android application for Bluetooth communication by Java, and successfully controlled the movement of the tracking car with a mobile phone 
