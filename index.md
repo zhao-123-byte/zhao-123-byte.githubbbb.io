@@ -6,11 +6,8 @@
 **School of Electrical and Information Engineering, Tianjin University&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sept. 2017 - Jun. 2021<br/>
 Bachelor of Engineering, Major in Automation**
 - **GPA**: 3.91/4.0 (top 2 among 174, top 1 among female students), **4.0/4.0 for all math and CS courses** 
-
 - **Major Coursework**: Modern Control Theory (100/100), Introduction to Artificial Intelligence (99/100), Introduction to Robotics (98/100), C++ (96/100), SQL (97/100) 
 - **Awards**: National Scholarship (the highest honor for undergraduates in China, **top 0.2%**), Merit Student Honor (top 10%)  
-
-![](honor.png)
 - **Programming Skills**: solid expertise in C++, Python, MATLAB, SQL, TensorFlow; experienced in Java, C, C#, assembly language, Kotlin; proficient in using AutoCAD, Altium Designer, Quartus, Multisim, Android Studio and other professional software 
 
 ### RESEARCH EXPERIENCE 
@@ -20,7 +17,8 @@ Advisor: Ming Zeng, Institute of Robotics and Automation Systems, Tianjin Univer
 - Collected and filtered images to construct a public garbage dataset including 10 subclasses and a total of 10,624 images 
 - Applied and compared different techniques of data augmentation, such as flipping, to expand the dataset 
 - Contributed to developing a public garbage classification algorithm based on a customized CNN architecture, conducting the numerical tests, and demonstrating a high accuracy of 96.35% 
-- Contributed to a fourth-author paper at 39th Chinese Control Conference, which has been accepted
+- Contributed to a fourth-author paper at 39th Chinese Control Conference, which has been accepted  
+
 #### Portable Gesture Control System Based on Kinect | RA&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;May. 2018 - May. 2019 
 Advisor: Xi Chen, School of Electrical and Information Engineering, Tianjin University 
 - Designed an Android application for Bluetooth communication by Java, and successfully controlled the movement of the tracking car with a mobile phone 
