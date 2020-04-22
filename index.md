@@ -28,7 +28,7 @@ Advisor: Xi Chen, School of Electrical and Information Engineering, Tianjin Univ
 
 
 ### SELECTED PROJECTS 
-#### Electrical Laboratory Management System Based on SQL and C#&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dec. 2018 - Nov. 2018
+#### Electrical Laboratory Management System Based on SQL and C#&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nov. 2018 - Dec. 2018
 Advisor: Mei Yu, College of Intelligence and Computing, Tianjin University 
 - Designed a database for the lab manager to query, insert, and delete the data of equipment, projects and courses by using the SQL server 
 - Developed a form application for the lab manager to check the equipment of the Electrical Laboratory by C# (contributed over 1,000-line codes) 
